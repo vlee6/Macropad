@@ -2,6 +2,8 @@
 
 For my first-ever PCB project, I've designed a 9 key low-profile macropad with a rotary encoder and oled screen. My intention was to keep costs minimal while retaining features found in most contemporary macropads. I began this journey after soldering my very own low-profile Lily58 build. While the Lily58 takes up minimal desk space and is very ergonomic, I found myself suffering from the small key count and lack of special features such as rotary encoders. Since I couldn't find any affordable alternative online, I set out to build my very own low-profile macropad to complete my desk setup.
 
+![alt text](https://github.com/vlee6/Macropad/blob/main/Images/Full.png)
+
 ### Specs:
 - ATmega32U4 Microcontroller
 - 9 Kailh Hotswap Sockets (Low-profile Choc V1)
@@ -29,3 +31,7 @@ You will need...
 
 1. The board can be ordered with the production files in this repository (BOM and CPL included). If you are manufacturing with JLCPCB, have them assemble the bottom side (you will only need to solder the LEDs on the top side).
 2. After printing out the top and bottom case from the STLs in this repository, they can be sandwiched to the PCB with four 4mm M2 screws (inserted from the bottom). If your PCB and case is aligned properly, the switches will snap in easily.
+
+### Image Dump
+![alt text](https://github.com/vlee6/Macropad/blob/main/Images/PCB%20Back.png)
+![alt text](https://github.com/vlee6/Macropad/blob/main/Images/PCB%20Front.png)
