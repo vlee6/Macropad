@@ -33,5 +33,6 @@ You will need...
 2. After printing out the top and bottom case from the STLs in this repository, they can be sandwiched to the PCB with four 4mm M2 screws (inserted from the bottom). If your PCB and case is aligned properly, the switches will snap in easily.
 
 ### Image Dump
+![Full Render](https://github.com/vlee6/Macropad/blob/main/Images/Render.png)
 ![PCB Back](https://github.com/vlee6/Macropad/blob/main/Images/PCB%20Back.png)
 ![PCB Front](https://github.com/vlee6/Macropad/blob/main/Images/PCB%20Front.png)
